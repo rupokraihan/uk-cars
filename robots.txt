@@ -1,0 +1,12 @@
+# robots.txt generated
+User-agent: *
+Disallow: /admin/
+Disallow: /private/
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /uploads/
+Disallow: /search/
+Disallow: /login/
+Disallow: /register/
+Disallow: /checkout/
+Sitemap: https://duaacarsltd.co.uk/sitemap.xml
